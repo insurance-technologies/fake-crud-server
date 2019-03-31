@@ -1,7 +1,7 @@
 {
   "users":{
      "users": {
-     "add":{
+     "add":
 	    [
 		   {
 		      "id": "0",
@@ -24,7 +24,7 @@
 			  "lastName": "Guardiola"			  
 		   },
 		]
-	 }
+	 
     }
   }
   
