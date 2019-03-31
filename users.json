@@ -1,0 +1,28 @@
+{
+  "users": {
+     "add":{
+	    [
+		   {
+		      "id": "0",
+			  "name": "Muhamed",
+			  "lastName": "Jay"			  
+		   },
+		   {
+		      "id": "1",
+			  "name": "Jhon",
+			  "lastName": "Sirvi"			  
+		   },
+		   {
+		      "id": "2",
+			  "name": "Martini",
+			  "lastName": "Bonet"			  
+		   },
+		   {
+		      "id": "3",
+			  "name": "Adam",
+			  "lastName": "Guardiola"			  
+		   },
+		]
+	 }
+  }
+}
