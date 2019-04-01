@@ -1,11 +1,34 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
+  "users":{
+    "users": {
+      "add":[
+        {
+          "id": "0",
+          "name": "Alejandro",
+          "lastName": "Swager"
+        },
+        {
+         "id": "1",
+         "name": "Porfirio",
+         "lastName": "Jay"
+       },
+       {
+         "id": "2",
+         "name": "Martini",
+         "lastName": "Bonet"
+       },
+       {
+         "id": "3",
+         "name": "Muhamed",
+         "lastName": "Guardiola"
+       },
+       {
+         "id": "4",
+         "name": "Adam",
+         "lastName": "Sirvi"
+       }
+      ] 
+      
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  } 
 }
